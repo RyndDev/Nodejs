@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Phuong thuy",
+      "username": "phuongthuy123",
+      "email": "phuongthuy@gmail.com",
+      "phone": "21391483147",
+      "id": 1
+    },
+    {
+      "name": "Phuong thuy2",
+      "username": "phuongthuy1232",
+      "email": "phuongthuy2@gmail.com",
+      "phone": "213914831472",
+      "id": 2
+    },
+    {
+      "name": "Phuong ",
+      "username": "phuongthuy123",
+      "email": "phuongthuy@gmail.com",
+      "phone": "21391483147",
+      "id": 3
+    },
+    {
+      "name": "Phuong thuy4",
+      "username": "phuongthuy1234",
+      "email": "phuongthuy4@gmail.com",
+      "phone": "21391483147",
+      "id": 4
+    },
+    {
+      "name": "Phuong thuy2",
+      "id": 6,
+      "username": "phuongthuy123",
+      "email": "phuongthuy@gmail.com",
+      "phone": "21391483147"
+    },
+    {
+      "name": "manh",
+      "username": "phuongthuy1232",
+      "email": "phuongthuy@gmail.com",
+      "phone": "21391483147",
+      "id": 7
+    },
+    {
+      "name": "Phuong thuy",
+      "username": "phuongthuy123",
+      "email": "phuongthuy@gmail.com",
+      "phone": "21391483147",
+      "id": 8
+    },
+    {
+      "name": "Phuong thuy",
+      "username": "phuongthuy123",
+      "email": "phuongthuy@gmail.com",
+      "phone": "21391483147",
+      "id": 9
+    }
+  ]
+}
